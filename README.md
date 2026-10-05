@@ -4,9 +4,7 @@ A machine learning capstone project that tests whether **routine, non-laboratory
 
 > **Disclaimer:** This is an educational project. It is not a medical device and must not be used for clinical decisions.
 
-**Author:** `<Your Name>`  |  **Course:** `<Course / Institution>`  |  **Year:** `<Year>`
 
----
 
 ## Research question
 
